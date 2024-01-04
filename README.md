@@ -4,7 +4,7 @@ Hi :wave: I'm Gautham P Sankar, a student of Electronics and Communication Engin
 
 Connect with me:
 
-<a href="https://www.linkedin.com/in/gautham-p-sankar-00391514a/" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/i/92/instagram.svg" alt="Gautham P Sankar" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/gautham-p-sankar-00391514a/" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="Gautham P Sankar" height="40" width="50" /></a>
 <a href="https://instagram.com/zolonoblesse/" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/i/92/instagram.svg" alt="zolonoblesse" height="45" width="55" /></a>
 </p>
 Languages and Tools:
